@@ -9,4 +9,5 @@ Started an [Address Book](https://github.com/wowsuchnamaste/address_book) app
 using TDD. Started this challenge.
 
 ### R1D2
-
+Continued with the [Address Book](https://github.com/wowsuchnamaste/address_book)
+app. More tests and more useful implementation.
