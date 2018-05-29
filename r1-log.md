@@ -15,3 +15,8 @@ app. More tests and more useful implementation.
 ### R1D3
 Continued with the [Address Book](https://github.com/wowsuchnamaste/address_book)
 app. It can now store and list entries of people.
+
+### R1D4
+Refactored the [Address Book](https://github.com/wowsuchnamaste/address_book).
+It now contains less lines of code, and less silly features.
+
