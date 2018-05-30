@@ -20,3 +20,6 @@ app. It can now store and list entries of people.
 Refactored the [Address Book](https://github.com/wowsuchnamaste/address_book).
 It now contains less lines of code, and less silly features.
 
+### R1D5
+Added uuid and search capabilities to the
+[Address Book](https://github.com/wowsuchnamaste/address_book).
