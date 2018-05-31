@@ -23,3 +23,9 @@ It now contains less lines of code, and less silly features.
 ### R1D5
 Added uuid and search capabilities to the
 [Address Book](https://github.com/wowsuchnamaste/address_book).
+
+### R1D6
+Started work on a command line interface for the
+[Address Book](https://github.com/wowsuchnamaste/address_book).
+Refactored parts of the code, added mock test.
+
