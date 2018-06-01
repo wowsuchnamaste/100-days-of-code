@@ -29,3 +29,8 @@ Started work on a command line interface for the
 [Address Book](https://github.com/wowsuchnamaste/address_book).
 Refactored parts of the code, added mock test.
 
+### R1D7
+Added more features to the Address Book CLI. Then learned about Python module
+packaging, packaged my training tracker, and initialized a new Django project
+with the training tracker package installed. To be continued...
+
